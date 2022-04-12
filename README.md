@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/saikrishna197" target="blank"><img src="https://img.shields.io/twitter/follow/saikrishna197?logo=twitter&style=for-the-badge" alt="saikrishna197" /></a> </p>
 
-- 🔭 I’m currently working on **Ethical AI , Interpretable AI**
+- 🔭 I’m currently working on **Ethical AI , Interpretable AI , Machine Learning Attacks **
 
 - 🌱 I’m currently learning **Web3,Crypto,Reinforcement Learning**
 
