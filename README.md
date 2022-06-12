@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **saikrishna92@outlook.com**
 
-- ⚡ Fun fact **I think I am Funny and Simple**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
