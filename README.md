@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Machine Learning, SQL, AWS, Computer Vision, NLP, Tableau ,ML Ops**
 
-- 📫 How to reach me **saikrishna92@outlook.com**
+- 📫 How to reach me connect in linkedin  **https://www.linkedin.com/in/sai-krishna-7b3619a5/**
 
 
 <h3 align="left">Connect with me:</h3>
