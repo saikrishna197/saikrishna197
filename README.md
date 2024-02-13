@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/saikrishna197" target="blank"><img src="https://img.shields.io/twitter/follow/saikrishna197?logo=twitter&style=for-the-badge" alt="saikrishna197" /></a> </p>
 
-- 🔭 I’m currently working on **Ethical AI , Interpretable AI , Machine Learning Attacks **
+- 🔭 I’m currently working on **Prompt Engineering , Retrival Augmented Generation(RAGs), Machine Learning, LLMs, Transformers, Statistics **
 
 - 🌱 I’m currently learning **Web3,Crypto,Reinforcement Learning**
 
-- 💬 Ask me about **Machine Learning, SQL, AWS, Computer Vision, NLP, Tableau ,ML Ops**
+- 💬 Ask me about **Machine Learning, SQL, AWS, Computer Vision, NLP, Genrative AI ,Tableau ,ML Ops**
 
 
 
