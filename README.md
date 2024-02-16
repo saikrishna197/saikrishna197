@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/saikrishna197" target="blank"><img src="https://img.shields.io/twitter/follow/saikrishna197?logo=twitter&style=for-the-badge" alt="saikrishna197" /></a> </p>
 
-- 🔭 I’m currently working on **Prompt Engineering , Retrival Augmented Generation(RAGs), Machine Learning, Transformers, Statistics **
+- 🔭 I’m currently working on **Natural Language Processing(NLP), Reinforcement Learning, Retrival Augmented Generation(RAGs), Deep Learning, Transformers, Statistics **
 
-- 🌱 I’m currently learning **Large Language Models(LLMs),Reinforcement Learning Using Human Feedback(RLHF),Reinforcement Learning**
+- 🌱 I’m currently learning **Large Language Models(LLMs),Reinforcement Learning Using Human Feedback(RLHF),Prompt Engineering**
 
 - 💬 Ask me about **Machine Learning, SQL, AWS, Computer Vision, NLP, Genrative AI ,Tableau ,ML Ops**
 
